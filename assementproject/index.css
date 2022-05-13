@@ -1,0 +1,51 @@
+*{margin: 0; padding: 0;}
+body{
+    
+    background-image:url('background.jpg');
+    background-repeat: repeat;
+    
+    }
+#my{
+    color:aqua;
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+#main{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    max-width: 300px;
+
+  /* Center the container in middle on horizontal axis */
+  margin: 0 auto;
+
+  /* Add empty space above the container (20% of the view height) */
+  margin-top: 20vh;
+    
+    
+    
+}
+#card {
+margin-top: 10px;
+
+background-color: white;
+
+  /* Add border */
+  border: 1px solid #bacdd8;
+
+  /* Add space between the border and the content */
+  padding: 8px;
+
+  border-radius: 12px 
+   
+
+  }
+  #home{
+      background-color: pink;
+      
+  }
+
+  
+  
+ 
